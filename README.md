@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Sayanta66/Sayanta66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Sayanta Banerjee. I am currently working as a technical writer as well as the open-source program manager at [Sawo Labs](https://github.com/Sawo-Community).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Intelligent Systems and Kubernetes Container Services
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Intelligent Systems and Kubernetes Container Services alongside Data Structures and Algorithms.
+- 🌱 I’m currently learning K3s, K8s, Go, Python, Javascript and C++.
+
+**A Short Bio**
+
 Sayanta is a professional technology enthusiast and an Elecronics and Communication Engineer. He mostly takes part on research and development and contributes in the advancement of engineering, science and technology. He also recently will take part in the contribution of open source and is consistent on it's progress. He specializes on electronics and electrical technologies with focuses mainly on automation, intelligent systems, robotics and wireless communicative protocols. He also deeply focuses on DevOps in general and has a huge interest in Cloud technology. He works on GCP and AWS. He is one of the top 50 Google Cloud DevJAM Stars. He actively takes part in conferences.
 
 <p align ="Center">
