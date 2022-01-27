@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 150+ Conference Attendee
 - 1 Conference Organizer
 
-**A Short Bio**
+**A Short Bio** :point_down:	
 
 Sayanta is a professional technology enthusiast and an Elecronics and Communication Engineer. He mostly takes part on research and development and contributes in the advancement of engineering, science and technology. He also recently will take part in the contribution of open source and is consistent on it's progress. He specializes on electronics and electrical technologies with focuses mainly on automation, intelligent systems, robotics and wireless communicative protocols. He also deeply focuses on DevOps in general and has a huge interest in Cloud technology. He works on GCP and AWS. He is one of the top 50 Google Cloud DevJAM Stars. He actively takes part in conferences.
 
