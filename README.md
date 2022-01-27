@@ -4,8 +4,17 @@ Hi, I am Sayanta Banerjee. I am currently working as a technical writer as well 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Intelligent Systems and Kubernetes Container Services alongside Data Structures and Algorithms.
-- 🌱 I’m currently learning K3s, K8s, Go, Python, Javascript and C++.
+- 🔭 Working on Intelligent Systems and Kubernetes Container Services alongside Data Structures and Algorithms.
+- 🌱 Learning K3s, K8s, Go, Python, Javascript and C++.
+- 10+ Hackathon winner🏆 
+- 12 Community Development
+- 30+ Technical Writings ✍️
+- 20+ Open Source Organisation involvement
+- 2 Hackathons Mentor
+- 5+ Hackathon Volunteer
+- 50+ Hackathon Attendee
+- 150+ Conference Attendee
+- 1 Conference Organizer
 
 **A Short Bio**
 
