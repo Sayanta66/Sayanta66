@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Sayanta Banerjee. I am currently working as a technical writer as well as the open-source program manager at [Sawo Labs](https://github.com/Sawo-Community).
+Hi, I am Sayanta Banerjee. I am currently working in the Kubernetes writing and Research position at [Civo Cloud](https://github.com/civo).
 
 Here are some ideas to get you started:
 
