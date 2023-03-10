@@ -29,11 +29,11 @@
 - 12* Community Development :tada:
 - 30+ Technical Writings ✍️
 - 20+ Open Source Organisation involvement :champagne:
-- 2* Hackathon Mentor
-- 5+ Hackathon Volunteer
+- 2* Hackathon Mentor :open_book:
+- 5+ Hackathon Volunteer :high_brightness:
 - 50+ Hackathon Attendee :dart:
 - 150+ Conference Attendee :globe_with_meridians:
-- 1 Conference Organizer 
+- 1 Conference Organizer :medal_military:
 
 </p>
 
