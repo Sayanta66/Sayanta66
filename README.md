@@ -39,6 +39,7 @@
 
 [![Twitter](https://img.shields.io/badge/DevSayanta-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DevSayanta)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanta-banerjee/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantabanerjee400@gmail.com)
 
 ## **Devlopment Tools**
 
