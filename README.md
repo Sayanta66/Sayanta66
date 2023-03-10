@@ -10,6 +10,6 @@
 <a align= "center" href="https://github.com/dipankardas011">
 <p>
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayanta66&theme=dracula&hide_border=true">
-<img align="right" height="auto" width="350" src="" /> </a>
+<img align="right" height="auto" width="350" src="https://github.com/Sayanta66/Sayanta66/blob/main/assets/programmer.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Sayanta66&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
