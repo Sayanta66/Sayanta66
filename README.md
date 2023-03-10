@@ -41,6 +41,16 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanta-banerjee/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantabanerjee400@gmail.com)
 
+# Some amazing Tech Articles by me 📔
+
+- [Kubernetes vs Docker: A comprehensive comparison / Civo](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
+- [Everything you need to know about K3s / Mattermost](https://mattermost.com/blog/intro-to-k3s-lightweight-kubernetes/)
+- [Create an Authenticated PDF converter / In-depth analysis](https://docs.google.com/document/d/1WCCXB6N41wSGnieiq_pdezkWzSV6vyaX-ly8DNkkl3s/edit#heading=h.vkl5dak63jix)
+- [Trusted device authentication 101 / Mattermost](https://mattermost.com/blog/trusted-device-authentication-101/)
+- [Five tools to increase Kubernetes developer productivity / Civo](https://www.civo.com/blog/five-tools-to-increase-kubernetes-developer-productivity)
+- [Installing minikube as a Kubernetes cluster / In-depth tutorial](https://hackmd.io/@Sayanta66/HJ2Hp4oe9)
+- [Cursor chat integration with presencejs / In-depth tutorial](https://hackmd.io/@Sayanta66/By6kXkgM5)
+
 ## **Devlopment Tools**
 
 ### *Languages & Database*
