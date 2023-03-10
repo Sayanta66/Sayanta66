@@ -17,6 +17,16 @@
 <p align="center" >
 
 
+## **Some notable achievements** 
+- 10+*Hackathon winner🏆
+- 12*Community Development
+- 30+ Technical Writings ✍️
+- 20+ Open Source Organisation involvement
+- 2 * Hackathon Mentor
+- 5+ Hackathon Volunteer
+- 50+ Hackathon Attendee
+- 150+ Conference Attendee
+- 1 Conference Organizer
 
 </p>
 
