@@ -1,25 +1,9 @@
-### Hi there 👋
+**<h1 align="center">Hi 👋, I&apos;m Sayanta Banerjee </h1>**
 
-Hi, I am Sayanta Banerjee. I am currently working in the Kubernetes writing and Research position at [Civo Cloud](https://github.com/civo).
-
-Here are some ideas to get you started:
-
-- 🔭 Working on Intelligent Systems and Kubernetes Container Services alongside Data Structures and Algorithms.
-- 🌱 Learning K3s, K8s, Go, Python, Javascript and C++.
-- 10+ Hackathon winner🏆 
-- 12 Community Development
-- 30+ Technical Writings ✍️
-- 20+ Open Source Organisation involvement
-- 2 Hackathons Mentor
-- 5+ Hackathon Volunteer
-- 50+ Hackathon Attendee
-- 150+ Conference Attendee
-- 1 Conference Organizer
-
-**A Short Bio** :point_down:	
-
-Sayanta is a professional technology enthusiast and an Elecronics and Communication Engineer. He mostly takes part on research and development and contributes in the advancement of engineering, science and technology. He also recently will take part in the contribution of open source and is consistent on it's progress. He specializes on electronics and electrical technologies with focuses mainly on automation, intelligent systems, robotics and wireless communicative protocols. He also deeply focuses on DevOps in general and has a huge interest in Cloud technology. He works on GCP and AWS. He is one of the top 50 Google Cloud DevJAM Stars. He actively takes part in conferences.
-
+<h4 align="center">
+ <a href="https://www.suse.com/" target="_blank" rel="noopener"> SUSE </a> Ambassador, CNCF project contributor, tech enthusiast, and Documentation engineer at <a href="https://www.civo.com/" target="_blank" rel="noopener"> Civo </a>.
+</h4>
+<br>
 <p align ="Center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayanta66&&show_icons=true&theme=radical" width="50%">
 </p>
