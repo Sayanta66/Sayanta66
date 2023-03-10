@@ -16,17 +16,24 @@
 
 <p align="center" >
 
+## **About me :ok_man:**
 
-## **Some notable achievements** 
-- 10+*Hackathon winner🏆
-- 12*Community Development
+ - 🎓 I’m a big technology enthusiast along with a love for reading books and journals.
+ - :writing_hand: Versed with technical writing including products and API documents (P.S. - Writing in all forms is a passion for me).
+ - :computer: Passionate about DevOps, open-source technologies, creating tech projects, and trying out new things.
+ - :ledger: [A curated list of some articles written by me.](https://sayanta66.github.io/Articles/)
+ - :page_with_curl: You can download my updated resume from [here]().
+ 
+### **Some notable achievements :grinning:** 
+- 10+ *Hackathon winner🏆
+- 12* Community Development :tada:
 - 30+ Technical Writings ✍️
-- 20+ Open Source Organisation involvement
-- 2 * Hackathon Mentor
+- 20+ Open Source Organisation involvement :champagne:
+- 2* Hackathon Mentor
 - 5+ Hackathon Volunteer
-- 50+ Hackathon Attendee
-- 150+ Conference Attendee
-- 1 Conference Organizer
+- 50+ Hackathon Attendee :dart:
+- 150+ Conference Attendee :globe_with_meridians:
+- 1 Conference Organizer 
 
 </p>
 
