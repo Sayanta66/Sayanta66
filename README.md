@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayanta66&label=Profile%20views&color=0e75b6&style=flat" alt="Sayanta66" /> </p>
 
-<a align= "center" href="https://github.com/dipankardas011">
+<a align= "center" href="https://github.com/Sayanta66">
 <p>
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayanta66&theme=dracula&hide_border=true">
 <img align="right" height="auto" width="350" src="https://github.com/Sayanta66/Sayanta66/blob/main/assets/programmer.gif" /> </a>
