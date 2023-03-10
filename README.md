@@ -37,7 +37,7 @@
 
 </p>
 
-[![Twitter](https://img.shields.io/badge/DipankarDas011-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DevSayanta)
+[![Twitter](https://img.shields.io/badge/DevSayanta-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DevSayanta)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanta-banerjee/)
 
 ## **Devlopment Tools**
