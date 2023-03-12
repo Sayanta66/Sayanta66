@@ -50,6 +50,7 @@
 - [Five tools to increase Kubernetes developer productivity / Civo](https://www.civo.com/blog/five-tools-to-increase-kubernetes-developer-productivity)
 - [Installing minikube as a Kubernetes cluster / In-depth tutorial](https://hackmd.io/@Sayanta66/HJ2Hp4oe9)
 - [Cursor chat integration with presencejs / In-depth tutorial](https://hackmd.io/@Sayanta66/By6kXkgM5)
+- [Your guide to Kubernetes dashboards / Civo](https://www.civo.com/blog/kubernetes-dashboards)
 
 ## **Devlopment Tools**
 
