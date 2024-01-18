@@ -5,7 +5,7 @@
 </h4>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayanta66&label=Profile%20views&color=0e75b6&style=flat" alt="Sayanta66" /> </p>
+
 
 <a align= "center" href="https://github.com/Sayanta66">
 <p>
