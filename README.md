@@ -1,7 +1,7 @@
 **<h1 align="center">Hi 👋, I&apos;m Sayanta Banerjee </h1>**
 
 <h4 align="center">
- <a href="https://www.suse.com/" target="_blank" rel="noopener"> SUSE </a> Ambassador, CNCF project contributor, tech enthusiast, and Documentation engineer at <a href="https://syself.com/" target="_blank" rel="noopener"> Syself Gmbh </a>. Also, involved in documentation consulting with <a href="https://nirmata.com/" target="_blank" rel="noopener"> Nirmata </a> and <a href="https://www.devshorts.in/" target="_blank" rel="noopener"> DevShorts </a>.
+ <a href="https://www.suse.com/" target="_blank" rel="noopener"> SUSE </a> Ambassador, <a href="https://www.cncf.io/" target="_blank" rel="noopener"> CNCF </a> project contributor, tech enthusiast, and Documentation engineer at <a href="https://syself.com/" target="_blank" rel="noopener"> Syself Gmbh </a>. Also, involved in documentation consulting with <a href="https://nirmata.com/" target="_blank" rel="noopener"> Nirmata </a> and <a href="https://www.devshorts.in/" target="_blank" rel="noopener"> DevShorts </a>.
 </h4>
 <br>
 
