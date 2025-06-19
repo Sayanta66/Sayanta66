@@ -9,7 +9,7 @@
 
 <a align= "center" href="https://github.com/Sayanta66">
 <p>
-<img height="200px" width="400" src="https://streak-stats.demolab.com/demo/?user=Sayanta66&theme=dark" alt="GitHub Streak" /></a>
+<img height="200px" width="400" src="https://streak-stats.demolab.com/demo/?user=Sayanta66&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" />
 <img align="right" height="400" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Sayanta66&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
