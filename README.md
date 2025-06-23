@@ -48,7 +48,7 @@ Name | Link
 
 # Documentation Portfolio
 
-- Find my documentation portfolio [here](https://sayanta66.github.io/Documentation-Portfolio)
+- Find my documentation portfolio [here](https://sayanta66.github.io/Documentation-Portfolio).
 
 # Some amazing Tech Articles by me 📔
 
