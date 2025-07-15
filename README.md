@@ -52,7 +52,7 @@ Name | Link
 
 # Some amazing Tech Articles by me 📔
 
-- [Kubernetes vs Docker: A comprehensive comparison / Civo](https://hackmd.io/@Sayanta66/SJ0qtoayn)
+- [Kubernetes vs Docker: A comprehensive comparison / Civo](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
 - [Everything you need to know about K3s / Mattermost](https://mattermost.com/blog/intro-to-k3s-lightweight-kubernetes/)
 - [Create an Authenticated PDF converter / In-depth analysis](https://docs.google.com/document/d/1WCCXB6N41wSGnieiq_pdezkWzSV6vyaX-ly8DNkkl3s/edit#heading=h.vkl5dak63jix)
 - [Trusted device authentication 101 / Mattermost](https://mattermost.com/blog/trusted-device-authentication-101/)
