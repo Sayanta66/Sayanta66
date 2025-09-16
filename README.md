@@ -22,7 +22,7 @@
  - :writing_hand: Versed with technical writing, including products and API documents (P.S. - Writing in all forms is a passion for me).
  - :computer: Passionate about DevOps, open-source technologies, creating tech projects, and trying out new things.
  - :ledger: [A curated list of some articles written by me.](https://sayanta66.github.io/Articles/)
- - :page_with_curl: You can download my updated resume from [here](https://github.com/Sayanta66/Sayanta66/blob/main/assets/Sayanta-Resume-Updated-290525.pdf).
+ - :page_with_curl: You can download my updated resume from [here](https://github.com/Sayanta66/Sayanta66/blob/main/assets/Sayanta-resume-130825.pdf).
  
 ### **Some notable achievements :grinning:** 
 - 10+ *Hackathon winner🏆
